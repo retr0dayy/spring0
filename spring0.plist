@@ -13,18 +13,7 @@
                     <key>url</key>
                     <string>https://github.com/haxi0/InstaSpring/releases/download/1.0/InstaSpring.1.0.Fix.ipa</string>
                 </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>url</key>
-                    <string>https://raw.githubusercontent.com/retr0dayy/spring0/main/logo(3).png</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>url</key>
-                    <string>https://raw.githubusercontent.com/retr0dayy/spring0/main/Icon-60%402x.png</string>
-                </dict>
+                
             </array>
             <key>metadata</key>
             <dict>
